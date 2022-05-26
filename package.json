@@ -1,0 +1,19 @@
+{
+  "name": "zaliczenie",
+  "version": "1.0.0",
+  "description": "Szymon 16184 C4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Szuno210/Zaliczenie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Szuno210/Zaliczenie/issues"
+  },
+  "homepage": "https://github.com/Szuno210/Zaliczenie#readme"
+}
