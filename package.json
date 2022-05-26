@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/Szuno210/Zaliczenie/issues"
   },
-  "homepage": "https://github.com/Szuno210/Zaliczenie#readme",
-  "dependencies": {
-    "mongoose": "^6.3.4"
-  }
+  "homepage": "https://github.com/Szuno210/Zaliczenie#readme"
 }
